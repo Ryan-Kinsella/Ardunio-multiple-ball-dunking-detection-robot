@@ -1,0 +1,4 @@
+# Multiple-hoop-dunking-robot
+A robot is armed with wheels, distance sensors, bumpers, light sensors, and infrared sensors. The robot is in a cage with three platforms with rubber balls on them with one "hoop" to socre on. The robot starts directly in the centre of the cage, and based off of a random reading from the IR sensor (value 0, 1, or 2) the robot will grab the ball from platforms 0,1, or 2 using its arms, and bring the ball to the hoop to dunk on. Once complete, the robot should return to its original place and await which platform to grab a ball from next.  The goal was to get the most amount of balls in the net IN A ROW as possible within two minuites.  I got 3 which was the highest on the marking scheme (and in the class). 
+
+[299 Block Diagram (1).pdf](https://github.com/Ryan-Kinsella/Multiple-hoop-dunking-robot/files/2950092/299.Block.Diagram.1.pdf)
